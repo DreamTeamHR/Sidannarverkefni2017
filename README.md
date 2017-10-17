@@ -74,3 +74,6 @@ last week, the detailed schedule will be published later. The distributed groups
 will demonstrate using shared desktop. The demonstration is part of the grade
 for this assignment. If you are not able to show some part of the build process
 (if it is broken) in the demonstration it will not count in the grade.
+
+# Travis
+[![Build Status](https://travis-ci.org/DreamTeamHR/Sidannarverkefni2017.svg?branch=master)](https://travis-ci.org/DreamTeamHR/Sidannarverkefni2017)
