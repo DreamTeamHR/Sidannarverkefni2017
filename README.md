@@ -9,9 +9,9 @@ Each team should implement the game TicTacToe. The main focus is on the
 infrastructure and best coding practices described below but not on
 implemented features.
 The project and infrastructure should tackle the following:
-1. The codebase is stored in source control system on GitHub from early start
+ <p>&#10004;1. The codebase is stored in source control system on GitHub from early start
 of the project (the teacher should be able to track the history of the project
-from the creation of the very first file). <p>&#10004;
+from the creation of the very first file).
 2. The system is setup with automatic build script.
 3. The build script runs all unit tests.
 4. The output is a deployable or executable artifact, such as a jar/war or
