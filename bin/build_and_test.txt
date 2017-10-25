@@ -1,6 +1,0 @@
-#!/bin/bash
-
-./bin/clean.txt
-./bin/compile.txt
-./bin/compile_tests.txt
-./bin/unit_test.txt
