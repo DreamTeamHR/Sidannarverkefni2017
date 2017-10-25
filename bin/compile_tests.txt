@@ -1,1 +1,0 @@
-javac -classpath "src/test/resources/junit-4.11.jar;classes/" src/test/java/is/ru/tictactoe/TicTacToeTest.java -d classes

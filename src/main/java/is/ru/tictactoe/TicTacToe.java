@@ -8,4 +8,8 @@ public class TicTacToe {
 		}
 		return -1;
 	}
+
+	public static void main(String[] args) {
+		test("");
+	}
 }
