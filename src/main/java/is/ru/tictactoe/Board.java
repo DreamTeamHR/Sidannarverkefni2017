@@ -2,14 +2,19 @@ package is.ru.tictactoe;
 
 public class Board {
 	
-	public static int test(String text) {
-		if(text == "") {
-			return 0;
+	private static char[][] board;
+	private static final int SIZE = 3;
+
+	public static void boards() {
+		board = new char[SIZE][SIZE];
+		for(int i = 0; i < SIZE; i++) {
+			for(int j = 0; j < SIZE; j++) {
+				board[i][j] = ' ';
+			}
 		}
-		return -1;
 	}
 
-	public static void main(String[] args) {
-		test("");
+	public static int boardSize() {
+		return SIZE;
 	}
 }

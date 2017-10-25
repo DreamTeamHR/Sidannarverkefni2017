@@ -6,8 +6,7 @@ import org.junit.Test;
 public class BoardTest {
 	
 	@Test
-	public void testEmptyString() {
-		assertEquals(0, Board.test(""));
+	public void testBoardSize() {
+		assertEquals(3, Board.boardSize());
 	}
-
 }
