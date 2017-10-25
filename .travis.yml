@@ -1,12 +1,1 @@
 language: java
-jdk:
-  - oraclejdk8
-  - oraclejdk9
-  - openjdk7
-deploy:
-  provider: heroku
-  api_key:
-    secure: 76a116aa-0925-4657-a574-7c44fc18ed44
-  app:
-    master: Sidannarverkefni2017
-    develop: Sidannarverkefni2017-staging
